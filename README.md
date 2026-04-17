@@ -68,7 +68,7 @@ Switch between light and dark themes from the topbar. The full editor UI adapts,
 
 Drag and drop blocks onto the canvas from the left panel. Blocks are organised into sections and are searchable. **Symbols** allow you to create reusable components with shared state across the project.
 
-![Block Manager](./screenshots/Screenshot%202026-04-13%20at%2012.37.14.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.37.14.png" height="500" alt="Block Manager" />
 
 ---
 
@@ -76,7 +76,7 @@ Drag and drop blocks onto the canvas from the left panel. Blocks are organised i
 
 The layer manager gives you a full tree view of your component hierarchy. Rename layers inline, lock components to prevent accidental edits, delete, and reorder via drag-and-drop.
 
-![Layer Manager](./screenshots/Screenshot%202026-04-13%20at%2012.37.55.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.37.55.png" height="500" alt="Layer Manager" />
 
 ---
 
@@ -84,7 +84,7 @@ The layer manager gives you a full tree view of your component hierarchy. Rename
 
 Manage multi-page projects with ease. Pages can be renamed inline and switched between from the left panel.
 
-![Page Manager](./screenshots/Screenshot%202026-04-13%20at%2012.38.25.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.38.25.png" height="500" alt="Page Manager" />
 
 ---
 
@@ -100,7 +100,7 @@ Create dynamic data collections, define their schemas, configure data providers,
 
 Define the default look and feel of your project and manage reusable selectors to keep your design system consistent across pages.
 
-![Theme Manager](./screenshots/Screenshot%202026-04-13%20at%2012.39.09.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.39.09.png" height="500" alt="Theme Manager" />
 
 ---
 
@@ -108,7 +108,7 @@ Define the default look and feel of your project and manage reusable selectors t
 
 Drag and drop images directly from the asset panel onto the canvas. Assets are accessible at a glance from the left bar.
 
-![Asset Manager](./screenshots/Screenshot%202026-04-13%20at%2012.39.32.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.39.32.png" height="500" alt="Asset Manager" />
 
 ---
 
@@ -124,7 +124,7 @@ Upload new images or add assets from external URLs through the Assets modal. Man
 
 Google Fonts added to the project are listed here and can be removed cleanly — no leftover CSS bloat. Fonts are injected automatically when selected from the style manager.
 
-![Google Fonts](./screenshots/Screenshot%202026-04-13%20at%2012.40.25.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.40.25.png" height="500" alt="Google Fonts" />
 
 ---
 
@@ -136,7 +136,7 @@ The right panel surfaces three key tools:
 - **Attributes** — Edit component attributes, organised into logical categories.
 - **Style Manager** — Full control over styles with categorised inputs. Includes all built-in GrapesJS style properties plus custom additions — like the combined padding input that lets you edit all sides at once or detach them for per-side control.
 
-![Selector & Style Manager](./screenshots/Screenshot%202026-04-13%20at%2012.41.04.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.41.04.png" height="500" alt="Selector & Style Manager" />
 
 ---
 
@@ -144,7 +144,7 @@ The right panel surfaces three key tools:
 
 The font input integrates Google Fonts directly. Selecting a font automatically injects the required CSS into the project — no manual setup needed.
 
-![Font Style Input](./screenshots/Screenshot%202026-04-13%20at%2012.42.39.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.42.39.png" height="300" alt="Font Style Input" />
 
 ---
 
@@ -152,7 +152,7 @@ The font input integrates Google Fonts directly. Selecting a font automatically 
 
 Border controls include per-side selection — set borders on all sides uniformly or target individual sides independently.
 
-![Border Style Input](./screenshots/Screenshot%202026-04-13%20at%2012.43.57.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.43.57.png" height="300" alt="Border Style Input" />
 
 ---
 
@@ -160,7 +160,7 @@ Border controls include per-side selection — set borders on all sides uniforml
 
 Layered style properties (like box shadows and transitions) are fully supported, with a clean list UI for adding, editing, and reordering multiple values.
 
-![Style Manager Layers](./screenshots/Screenshot%202026-04-13%20at%2012.44.59.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2012.44.59.png" height="250" alt="Style Manager Layers" />
 
 ---
 
@@ -190,7 +190,7 @@ Interactive canvas spots provide direct manipulation handles for:
 
 When a collection component is added to the canvas, a modal lets you select which datasource collection it should repeat over — connecting your design to your data in one step.
 
-![Edit Collections](./screenshots/Screenshot%202026-04-13%20at%2013.29.59.png)
+<img src="./screenshots/Screenshot%202026-04-13%20at%2013.29.59.png" height="300" alt="Edit Collections" />
 
 ---
 
