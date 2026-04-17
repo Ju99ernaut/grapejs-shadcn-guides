@@ -4,6 +4,8 @@
 
 **[→ Get grapesjs-shadcn on GJS Market](https://gjs.market/products/grapesjs-shadcn)**
 
+> Looking for the code tour?
+
 **[→ Code Tour](./code-tour.md)**
 
 ---
